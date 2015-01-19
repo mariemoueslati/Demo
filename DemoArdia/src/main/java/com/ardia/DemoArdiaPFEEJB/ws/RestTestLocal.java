@@ -17,3 +17,4 @@ public interface RestTestLocal {
     public String sayHello(@QueryParam("name")String name);
 
 }
+
