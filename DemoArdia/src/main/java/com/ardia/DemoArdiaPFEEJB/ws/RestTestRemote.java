@@ -14,5 +14,5 @@ public interface RestTestRemote {
 	@Path("/hello")
 	@Produces("application/json")
     public String sayHello(@QueryParam("name")String name);
-	//kjhdkjh
+	
 }
